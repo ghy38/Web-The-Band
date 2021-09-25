@@ -461,6 +461,8 @@ html{
     margin: 8px 0 16px;
     cursor: pointer;
     border: none;
+     appearance: none;
+    -webkit-appearance: none;
 }
 
 .contact-form .send-form:hover {
